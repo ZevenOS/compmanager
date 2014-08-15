@@ -1,0 +1,11 @@
+Package: compmanager
+Version: 0.1zevenos3
+Architecture: all
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Installed-Size: 120
+Depends: python2.6, python-support (>= 0.90.0), python-gtk2, xcompmgr
+Section: python
+Priority: extra
+Description: Compositing Manager for ZevenOS
+ Activate or Deactivate compositing and manage effects
+Python-Version: 2.6

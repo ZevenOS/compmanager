@@ -1,0 +1,18 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_pysupport
+if which update-python-modules >/dev/null 2>&1; then
+	update-python-modules  compmanager.public
+fi
+# End automatically added section
+cat << EOF > /etc/xdg/autostart/effects.desktop
+[Desktop Entry]
+Encoding=UTF-8
+Name=Compositing Effects
+Exec=effects.sh
+Icon=/usr/share/compmanager/media/icon.png
+Terminal=false
+Type=Application
+OnlyShowIn=XFCE;
+Hidden=true
+EOF

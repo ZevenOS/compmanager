@@ -1,0 +1,7 @@
+pyversions=2.6
+
+/usr/share/pyshared/compmanager-0.1.egg-info
+/usr/share/pyshared/compmanager/AboutCompmanagerDialog.py
+/usr/share/pyshared/compmanager/PreferencesCompmanagerDialog.py
+/usr/share/pyshared/compmanager/compmanagerconfig.py
+/usr/share/pyshared/compmanager/helpers.py

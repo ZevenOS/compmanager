@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Compmanager
+Comment=Compmanager application
+Categories=GNOME;System;
+Exec=compmanager
+Icon=/usr/share/compmanager/media/icon.png
+Terminal=false
+Type=Application
